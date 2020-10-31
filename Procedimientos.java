@@ -72,11 +72,11 @@ public class Procedimientos {
              
              
              
-    if (op == 1) {
+    if (op == 6) {
             suma();    
-    }else if(op==2){
+    }else if(op==7){
         resta();
-    }else if(op==3){
+    }else if(op==8){
         multi();
     }   
 }
